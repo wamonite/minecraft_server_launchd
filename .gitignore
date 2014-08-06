@@ -1,0 +1,8 @@
+minecraft.fifo
+minecraft.log
+minecraft_error.log
+*.jar
+eula.txt
+*.properties
+*.json
+logs
